@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Caro.cpp
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Caro.cpp(387,6): warning C4101: 'n': unreferenced local variable
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Caro.cpp(433,6): warning C4101: 'n': unreferenced local variable
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Caro.cpp(487,12): warning C4101: 'wmEvent': unreferenced local variable
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Caro.cpp(487,6): warning C4101: 'wmId': unreferenced local variable
+  Caro_class.cpp
+  Generating Code...
+  Caro.vcxproj -> C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Debug\Caro.exe

@@ -1,0 +1,4 @@
+C:\Users\MyPC\Desktop\hihi\source-caro\source-caro\source caro\Debug\Caro.exe
+C:\Users\MyPC\Desktop\hihi\source-caro\source-caro\source caro\Debug\Caro.pdb
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Debug\Caro.exe
+C:\Users\MyPC\Desktop\source-caro\source-caro\source caro\Debug\Caro.pdb
